@@ -72,5 +72,5 @@ Built using Microsoft Visual C++ (VS 2019 Build Tools):
 
 ```cmd
 
-cl /LD /O2 /EHsc /std:c++17 /I include plugin.cpp Ole32.lib User32.lib Comctl32.lib Gdi32.lib Shell32.lib /Fe:GameAudioDucker\_win64.dll
+cl /LD /O2 /EHsc /std:c++17 /I include plugin.cpp Ole32.lib User32.lib Comctl32.lib Gdi32.lib /Fe:GameAudioDucker_win64.dll 
 
